@@ -1,0 +1,18 @@
+.venv/
+__pycache__/
+*.pyc
+screenshots/
+profiles/
+output/
+*.db
+tmp_debug/
+session.json
+.pytest_cache/
+backup_vecchi_import/
+*.zip
+
+# ⚠️ DOCUMENTAZIONE INTERNA — NON PUBBLICARE MAI
+GUIDA_MASTER*.md
+PIANO_OPERATIVO*.md
+AGENTS.md
+config.json
